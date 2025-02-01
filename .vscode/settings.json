@@ -1,0 +1,23 @@
+{
+  "window.zoomLevel": -2,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.prettier": "explicit"
+  },
+  "editor.fontSize": 16,
+  "editor.letterSpacing": -0.4,
+  "editor.cursorBlinking": "smooth",
+  "editor.cursorStyle": "block",
+  "editor.formatOnSave": true,
+  "editor.minimap.enabled": false,
+  "editor.renderLineHighlight": "all",
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "files.trimTrailingWhitespace": true,
+  "terminal.integrated.fontSize": 16,
+  "terminal.integrated.fontWeightBold": "normal",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.tree.indent": 20,
+  "workbench.reduceMotion": "on",
+  "workbench.editor.empty.hint": "hidden"
+}
